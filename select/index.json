@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Seberapa Pantas",
+  "base_artist": "Sheila On 7",
+  "createdAt": "2026-03-01T16:28:09.952869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/01_Seberapa_Pantas_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/02_Seberapa_Pantas_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seberapa Pantas (Album Version)",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/03_Seberapa_Pantas_(Album_Version)_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/04_Seberapa_Pantas_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "GAC (Gamaliél Audrey Cantika)",
+      "has_synced": true,
+      "path": "select/05_Seberapa_Pantas_GAC_(Gamaliél_Audrey_Cantika).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Sheila on 7",
+      "has_synced": true,
+      "path": "select/06_Seberapa_Pantas_Sheila_on_7.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Aruma",
+      "has_synced": false,
+      "path": "select/07_Seberapa_Pantas_Aruma.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/08_Seberapa_Pantas_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/09_Seberapa_Pantas_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seberapa Pantas",
+      "artist": "Gamaliel Audrey Cantika",
+      "has_synced": true,
+      "path": "select/10_Seberapa_Pantas_Gamaliel_Audrey_Cantika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/pl_01_Seberapa_Pantas_Sheila_On_7.txt"
+    }
+  ]
+}
