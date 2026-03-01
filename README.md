@@ -1,0 +1,53 @@
+# Sheila On 7 – Seberapa Pantas
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.32] Seberapa pantaskah kau untuk kutunggu?
+[00:09.41] Cukup indahkah dirimu untuk s'lalu kunantikan?
+[00:15.45] Mampukah kau hadir dalam setiap mimpi burukku?
+[00:21.14] Mampukah kita bertahan di saat kita jauh?
+[00:41.64] 
+[00:26.98] Seberapa hebatkah untuk kubanggakan?
+[00:32.96] Cukup tangguhkah dirimu untuk s'lalu kuandalkan?
+[00:39.09] Mampukah kau bertahan dengan hidupku yang malang?
+[00:44.92] Sanggupkah kau meyakinkan di saat aku bimbang?
+[01:07.92] 
+[00:49.68] Celakanya, hanya kaulah yang benar-benar aku tunggu
+[00:53.73] Hanya kaulah yang benar-benar memahamiku
+[00:56.58] Kau pergi dan hilang, ke mana pun kau suka
+[01:17.58] 
+[01:01.55] Celakanya, hanya kaulah yang pantas untuk kubanggakan
+[01:05.63] Hanya kaulah yang sanggup untuk aku andalkan
+[01:08.37] Di antara pedih, aku s'lalu menantimu
+[01:26.87] 
+[01:14.28] Seberapa hebatkah untuk kubanggakan?
+[01:20.25] Cukup tangguhkah dirimu untuk selalu kuandalkan?
+[01:26.26] Mampukah kau bertahan dengan hidupku yang malang?
+[01:31.96] Sanggupkah kau meyakinkan di saat aku bimbang?
+[01:54.96] 
+[01:37.86] Ah-ah-ah (ah-ah-ah)
+[01:43.96] Ah-ah-ah (ah-ah-ah)
+[01:53.46] 
+[02:25.02] Mungkin kini kau t'lah menghilang tanpa jejak
+[02:31.09] Mengubur semua indah kenangan
+[02:36.83] Tapi aku s'lalu menunggumu di sini
+[02:42.85] Bila saja kau berubah pikiran
+[02:57.35] 
+[02:51.85] Ho-oh-oh
+[02:54.78] Ho-oh-oh
+[02:57.54] He-eh
+[03:00.04] 
+[02:59.42] Celakanya, hanya kaulah yang benar-benar aku tunggu
+[03:03.44] Hanya kaulah yang benar-benar memahamiku
+[03:06.20] Kau pergi dan hilang, ke mana pun kau suka
+[03:27.20] 
+[03:11.48] Celakanya, hanya kaulah yang pantas untuk kubanggakan
+[03:15.27] Hanya kaulah yang sanggup untuk aku andalkan
+[03:18.22] Di antara pedih, aku s'lalu menantimu
+[03:36.72] 
+[03:23.53] Oh-ah-ah
+[03:29.32] Oh-ah-ah
+[03:35.02] Oh-ah-ah
+[03:41.09] Oh-ah-ah
+```
